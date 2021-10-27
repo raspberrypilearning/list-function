@@ -2,6 +2,8 @@
 
 The `list()` function **returns** a list that you can use in your code. 
 
+### Returning an empty list
+
 If you use `list()` with no **parameters** in the curved brackets, it will **return** an empty list. 
 
 Here is an example of `list()` being used with **no parameters**. 
