@@ -1,8 +1,8 @@
-## Using the `list()` function in Python
+### Using the `list()` function in Python
 
 The `list()` function **returns** a list that you can use in your code. 
 
-### Returning an empty list
+**Returning an empty list**
 
 If you use `list()` with no **parameters** in the curved brackets, it will **return** an empty list. 
 
@@ -20,7 +20,7 @@ The output of this code would be:
 
 This is because the `list()` function has **returned** an empty list. 
 
-### Converting a string into a list
+**Converting a string into a list**
 
 You can use the `list()` function to convert a string into a list. 
 
