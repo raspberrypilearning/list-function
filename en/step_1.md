@@ -1,5 +1,3 @@
-### Using the `list()` function in Python
-
 The `list()` function **returns** a list that you can use in your code. 
 
 **Returning an empty list**
