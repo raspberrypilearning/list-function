@@ -1,4 +1,4 @@
-### Using the `list()` function in Python
+# Using the `list()` function in Python
 
 The `list()` function **returns** a list that you can use in your code. 
 
