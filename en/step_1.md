@@ -24,7 +24,7 @@ You can use the `list()` function to convert a string into a list.
 
 For example, you might have a **variable** that holds the vowels from the English alphabet. To convert this into a list you would **pass** the `vowels` variable through the **parameters** (round brackets) and the function would return it as a list. 
 
-You can see this happening at line 2 in the code example below:
+You can see this happening at **line 2** in the code example below:
 
 --- code ---
 ---
