@@ -29,7 +29,7 @@ You can see this happening at **line 2** in the code example below:
 --- code ---
 ---
 language: python
-filename: main.py
+filename: main.py 
 line_numbers: true
 line_number_start: 1
 line_highlights: 2
