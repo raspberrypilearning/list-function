@@ -1,0 +1,5 @@
+The variable holds a string of vowels
+
+Create a list that holds each vowel as a separate item
+
+Display the list of vowels
