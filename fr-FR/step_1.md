@@ -1,30 +1,30 @@
-The `list()` function **returns** a list that you can use in your code.
+La fonction `list()` **renvoie** une liste que tu peux utiliser dans ton code.
 
-**Returning an empty list**
+**Renvoyer une liste vide**
 
-If you use `list()` with no **parameters** in the curved brackets, it will **return** an empty list.
+Si tu utilises la fonction `list()` sans **paramètre** dans les parenthèses, elle **renverra** une liste vide.
 
-Here is an example of `list()` being used with **no parameters**.
+Voici un exemple de la fonction `list()` utilisée **sans paramètre**.
 
 ```python
 print(list())
 ```
 
-The output of this code would be:
+Le résultat de ce code sera :
 
 ```
 []
 ```
 
-This is because the `list()` function has **returned** an empty list.
+En effet, la fonction `list()` a **renvoyé** une liste vide.
 
-**Converting a string into a list**
+**Convertir une chaîne en liste**
 
-You can use the `list()` function to convert a string into a list.
+Tu peux utiliser la fonction `list()` pour convertir une chaîne en liste.
 
-For example, you might have a **variable** that holds the vowels from the English alphabet. To convert this into a list, you would **pass** the `vowels` variable through the **parameters** (round brackets) and the function would return it as a list.
+Par exemple, tu pourrais avoir une **variable** qui contient les voyelles de l'alphabet anglais. Pour la convertir en liste, tu dois **transmettre** la variable `voyelles` via les **paramètres** (parenthèses) et la fonction la renvoie sous forme de liste.
 
-You can see this happening at **line 2** in the code example below:
+Tu peux voir cela se produire à la **ligne 2** dans l'exemple de code ci-dessous :
 
 --- code ---
 ---
@@ -33,7 +33,7 @@ line_highlights: 2
 ---
 vowels = 'AEIOU' # The variable holds a string of vowels vowel_list = list(vowels) # Create a list that holds each vowel as a separate item print(vowel_list) # Display the list of vowels --- /code ---
 
-The output of this code would be:
+Le résultat de ce code sera :
 
 ```
 ['A', 'E', 'I', 'O', 'U']
