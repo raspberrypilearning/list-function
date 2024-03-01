@@ -1,5 +1,5 @@
-The variable holds a string of vowels
+La variable contient une chaîne de voyelles
 
-Create a list that holds each vowel as a separate item
+Crée une liste qui contient chaque voyelle en tant qu'élément séparé
 
-Display the list of vowels
+Affiche la liste de voyelles
