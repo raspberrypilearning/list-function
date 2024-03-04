@@ -1,0 +1,5 @@
+La variable contient une chaîne de voyelles
+
+Crée une liste qui contient chaque voyelle en tant qu'élément séparé
+
+Affiche la liste de voyelles
