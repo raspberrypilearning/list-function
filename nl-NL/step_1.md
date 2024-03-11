@@ -1,30 +1,30 @@
-The `list()` function **returns** a list that you can use in your code.
+De `list()` functie **maakt** een lijst die je kunt gebruiken in je code.
 
-**Returning an empty list**
+**Het teruggeven van een lege lijst**
 
-If you use `list()` with no **parameters** in the curved brackets, it will **return** an empty list.
+Als je `list()` gebruikt zonder **parameters** tussen de gebogen haakjes, zal dit een lege lijst **opleveren**.
 
-Here is an example of `list()` being used with **no parameters**.
+Hier is een voorbeeld van `list()` die wordt gebruikt **zonder parameters**.
 
 ```python
 print(list())
 ```
 
-The output of this code would be:
+De uitvoer van deze code zou zijn:
 
 ```
 []
 ```
 
-This is because the `list()` function has **returned** an empty list.
+Dit komt omdat de `list()` functie een lege lijst heeft **teruggegeven**.
 
-**Converting a string into a list**
+**Een string omzetten in een lijst**
 
-You can use the `list()` function to convert a string into a list.
+Je kunt de functie `list()` gebruiken om een string in een lijst om te zetten.
 
-For example, you might have a **variable** that holds the vowels from the English alphabet. To convert this into a list, you would **pass** the `vowels` variable through the **parameters** (round brackets) and the function would return it as a list.
+Je hebt bijvoorbeeld een **variabele** die de klinkers van het Engelse alfabet bevat. Om dit in een lijst om te zetten, moet je de `klinkers` variabele **doorgeven** via de **parameters** (ronde haakjes) en de functie zal het als een lijst retourneren.
 
-You can see this happening at **line 2** in the code example below:
+Je kunt dit zien in **regel 2** in het onderstaande code voorbeeld:
 
 --- code ---
 ---
@@ -33,7 +33,7 @@ line_highlights: 2
 ---
 vowels = 'AEIOU' # The variable holds a string of vowels vowel_list = list(vowels) # Create a list that holds each vowel as a separate item print(vowel_list) # Display the list of vowels --- /code ---
 
-The output of this code would be:
+De uitvoer van deze code zou zijn:
 
 ```
 ['A', 'E', 'I', 'O', 'U']
