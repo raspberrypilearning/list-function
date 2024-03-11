@@ -1,5 +1,5 @@
-The variable holds a string of vowels
+De variabele bevat een reeks klinkers
 
-Create a list that holds each vowel as a separate item
+Maak een lijst waarin elke klinker als afzonderlijk item wordt vermeld
 
-Display the list of vowels
+Geef de lijst met klinkers weer
