@@ -1,0 +1,5 @@
+De variabele bevat een reeks klinkers
+
+Maak een lijst waarin elke klinker als afzonderlijk item wordt vermeld
+
+Geef de lijst met klinkers weer
